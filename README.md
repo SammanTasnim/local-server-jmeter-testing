@@ -21,10 +21,5 @@ Make sure you have the following software installed:
    git clone https://github.com/SammanTasnim/web-app-jmeter-testing.git
    cd web-app-jmeter-testing
 
-#### Usage
-To test the web application using JMeter, follow these steps:
 
-- Open JMeter and load the project file.
-- Configure the test plan according to your requirements.
-- Run the test plan to simulate load on the web application.
 

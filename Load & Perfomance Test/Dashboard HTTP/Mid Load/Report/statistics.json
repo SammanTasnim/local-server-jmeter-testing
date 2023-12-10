@@ -1,0 +1,34 @@
+{
+  "HTTP Request Dashboard" : {
+    "transaction" : "HTTP Request Dashboard",
+    "sampleCount" : 2000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 16.270499999999966,
+    "medianResTime" : 11.0,
+    "minResTime" : 5.0,
+    "maxResTime" : 523.0,
+    "pct1ResTime" : 29.90000000000009,
+    "pct2ResTime" : 39.94999999999982,
+    "pct3ResTime" : 87.0,
+    "throughput" : 324.2016534284325,
+    "receivedKBytesPerSec" : 5052.98670773221,
+    "sentKBytesPerSec" : 38.942190792673046
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 16.270499999999966,
+    "medianResTime" : 11.0,
+    "minResTime" : 5.0,
+    "maxResTime" : 523.0,
+    "pct1ResTime" : 29.90000000000009,
+    "pct2ResTime" : 39.94999999999982,
+    "pct3ResTime" : 87.0,
+    "throughput" : 324.2016534284325,
+    "receivedKBytesPerSec" : 5052.98670773221,
+    "sentKBytesPerSec" : 38.942190792673046
+  }
+}

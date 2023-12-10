@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 5000,
+    "errorCount" : 4848,
+    "errorPct" : 96.96,
+    "meanResTime" : 1462.3779999999983,
+    "medianResTime" : 1123.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 3636.0,
+    "pct1ResTime" : 2744.9000000000005,
+    "pct2ResTime" : 3098.0,
+    "pct3ResTime" : 3627.0,
+    "throughput" : 953.2888465204958,
+    "receivedKBytesPerSec" : 200.43046949475692,
+    "sentKBytesPerSec" : 0.0
+  },
+  "JDBC Request item_list" : {
+    "transaction" : "JDBC Request item_list",
+    "sampleCount" : 5000,
+    "errorCount" : 4848,
+    "errorPct" : 96.96,
+    "meanResTime" : 1462.3779999999983,
+    "medianResTime" : 1123.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 3636.0,
+    "pct1ResTime" : 2744.9000000000005,
+    "pct2ResTime" : 3098.0,
+    "pct3ResTime" : 3627.0,
+    "throughput" : 953.2888465204958,
+    "receivedKBytesPerSec" : 200.43046949475692,
+    "sentKBytesPerSec" : 0.0
+  }
+}

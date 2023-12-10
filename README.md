@@ -18,7 +18,8 @@ Make sure you have the following software installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/web-app-jmeter-testing.git
-   2. Navigate to the project directory:
-   cd web-app-jmeter-testing
-3. Open the JMeter project file in the jmeter directory using JMeter.
+   git clone https://github.com/SammanTasnim/web-app-jmeter-testing.git
+   Navigate to the project directory: cd web-app-jmeter-testing
+   Open the JMeter project file in the jmeter directory using JMeter.
+   
+
